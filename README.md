@@ -1,6 +1,4 @@
-# Electronic_Arts_stock_price
-
-### 📌 **LSTM-Based Stock Price Prediction – Project Summary**  
+###  **LSTM-Based Stock Price Prediction – Project Summary**  
 
 #### **Objective**  
 This project aimed to **predict stock prices** using an **LSTM (Long Short-Term Memory) model** built with **TensorFlow and Keras**. The model was trained on historical stock price data and used for future price forecasting.  
@@ -17,7 +15,7 @@ This project aimed to **predict stock prices** using an **LSTM (Long Short-Term 
 
 ---
 
-### **2️⃣ Model Development (LSTM) 🧠**  
+### **2️⃣ Model Development (LSTM) **  
 - Built a **deep LSTM model** with the following layers:  
   ✅ **2 LSTM layers** (50 units each)  
   ✅ **Dropout layers** (20% to prevent overfitting)  
@@ -27,7 +25,7 @@ This project aimed to **predict stock prices** using an **LSTM (Long Short-Term 
 
 ---
 
-### **3️⃣ Model Training & Evaluation 📊**  
+### **3️⃣ Model Training & Evaluation **  
 - **Training**: Ran for **20 epochs** with a batch size of **16**.  
 - **Loss Reduction**: Training & validation loss decreased steadily.  
 - **Performance Metrics**:  
@@ -37,7 +35,7 @@ This project aimed to **predict stock prices** using an **LSTM (Long Short-Term 
 
 ---
 
-### **4️⃣ Predictions & Visualizations 📈**  
+### **4️⃣ Predictions & Visualizations **  
 - **Actual vs. Predicted Prices**: Plotted **LSTM predictions vs. actual stock prices** for comparison.  
 - **Future Forecasting**: Predicted stock prices for the **next 30 days** using iterative prediction.  
 
@@ -50,5 +48,5 @@ This project aimed to **predict stock prices** using an **LSTM (Long Short-Term 
 
 ---
 
-## 🎯 **Final Verdict**  
+##  **Final Verdict**  
 This **LSTM-based stock price predictor** successfully models stock price trends and forecasts future prices with high accuracy. While improvements are possible, the current results demonstrate **strong predictive performance**.  
